@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Wolfram-180
-- 👀 Flutter developer raising expertise in Dart & Flutter via writing different apps
+- Flutter developer raising expertise in Dart & Flutter via writing different apps
 - Site: https://wolfram-180.github.io/
-- 📫 How to reach me : sergei.ulvis@gmail.com
+- How to reach me : sergei.ulvis@gmail.com
