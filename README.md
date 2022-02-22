@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Wolfram-180
-- Flutter developer raising expertise in Dart & Flutter via writing different apps
+- Flutter developer raising expertise in Dart & Flutter while writing different apps
+- Flutter: composing widgets, Provider, http, JSON, Firebase, Stream/Future, MethodChannel
 - Site: https://wolfram-180.github.io/
 - How to reach me : sergei.ulvis@gmail.com
