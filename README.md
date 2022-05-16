@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Wolfram-180
+- 👋 Hi, Sergei Ulvis here
 - Flutter developer raising expertise while writing apps
 - Flutter exp: composing widgets, Provider, http, JSON, Firebase, Stream/Future, MethodChannel
 - Python exp: backends on Flask (REST API, JSON), Telegram bots (aiogram, MySQL)
