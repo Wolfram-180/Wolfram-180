@@ -2,6 +2,6 @@
 - Flutter developer raising expertise while writing apps
 - Flutter exp: composing widgets, Provider, http, JSON, Firebase, Stream/Future, MethodChannel
 - Python exp: backends on Flask (REST API, JSON), Telegram bots (aiogram, MySQL)
-- DBs : Firestore (since 2021) / +10 years working with MySQL, Firebird, (MSSQL, Oracle (T-SQL))
+- DBs : Firestore (since 2021) / MySQL, Firebird, (MSSQL, Oracle (T-SQL))
 - Site: https://wolfram-180.github.io/
 - How to reach me : sergei.ulvis@gmail.com
