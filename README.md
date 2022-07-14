@@ -2,6 +2,6 @@
 - Flutter developer raising expertise while writing apps
 - Flutter exp: composing widgets, Provider, http, JSON, Firebase, Stream/Future, MethodChannel
 - Python exp: Telegram bots (aiogram, MySQL)
-- DBs : Firestore, MySQL
+- DBs : Firestore, MySQL (and other relative)
 - Site: https://wolfram-180.github.io/
 - Contact : sergei.ulvis@gmail.com
