@@ -2,6 +2,6 @@
 - Flutter developer raising expertise while writing apps 
 - Flutter exp: composing widgets, Provider, http, JSON, Firebase, Stream/Future, MethodChannel
 - Python exp: Telegram bots (aiogram, MySQL)
-- DBs : Firestore, MySQL, Firebird
+- DBs : Firebase (Realtime DB), MySQL
 - about 7 years of Delphi (good old times)
 - Site: https://wolfram-180.github.io/
