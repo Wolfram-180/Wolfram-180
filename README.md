@@ -1,4 +1,4 @@
-- 👋 Hi, Sergei Ulvis here
+- 👋 Hi there, Sergei Ulvis here
 - Flutter developer raising expertise while writing apps 
 - Flutter exp: composing widgets, Provider, http, JSON, Firebase, Stream/Future, MethodChannel; more in sources
 - Python exp: Telegram bots (aiogram, MySQL)
