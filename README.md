@@ -1,6 +1,5 @@
 - 👋 Hi there, Sergei Ulvis here
-- Flutter developer raising expertise while writing apps 
-- Flutter exp: composing widgets, Provider, dio, Firebase, Stream, MethodChannel etc
-- Python exp: Telegram bots (aiogram + MySQL), Selenium, OpenCV
+- Flutter: composing widgets, Provider, dio, Firebase, Stream, MethodChannel etc
+- Python: Telegram bots (aiogram + MySQL), Selenium, OpenCV
 - 8 years of Delphi (good old times) + Firebird, MySQL
 - Site https://wolfram-180.github.io/ for more details
