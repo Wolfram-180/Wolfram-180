@@ -1,3 +1,3 @@
 - 👋 Hi there, Sergei Ulvis here
-- Flutter: composing widgets, Provider, dio, Firebase, Stream, MethodChannel etc
+- Flutter: Bloc, Redux, Hooks, Provider, dio, Firebase, Flame, Hive, Stream, MethodChannel etc
 - Python: Telegram bots (aiogram + MySQL), Selenium, OpenCV
