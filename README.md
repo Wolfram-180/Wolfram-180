@@ -1,3 +1,3 @@
 - 👋 Hi there, Sergei Ulvis here
-- Flutter: Bloc, Redux, Hooks, Provider, dio, Firebase, Flame, Hive, Stream, MethodChannel etc
+- Flutter: Riverpod, Bloc, dio, Firebase, Isar, Hive, MethodChannel etc
 - Python: Telegram bots (aiogram + MySQL), Selenium, OpenCV
