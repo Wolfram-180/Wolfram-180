@@ -1,3 +1,1 @@
-- 👋 Hi there, Sergei Ulvis here
-- Flutter: Riverpod, Bloc, dio, Firebase, Hive, Moor, MethodChannel etc
-- Python: Telegram bots (aiogram + MySQL), Selenium, OpenCV
+- 👋 Hi there, look at wolfram180.com for working products!
